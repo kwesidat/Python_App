@@ -1,2 +1,2 @@
 # Python_App
-Pythin App with AWS
+Python App with AWS
